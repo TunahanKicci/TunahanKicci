@@ -63,7 +63,6 @@
 ###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -80,6 +79,17 @@
 </div>
 
 ---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![FinanceML-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight)](https://github.com/TunahanKicci/FinanceML-Pipeline)
+
+</div>
+
+---
+
 
 
 ## 🤝 Connect With Me
@@ -112,3 +122,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
+
+
+
+
+
+
+
+
+
+
