@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&text=Hi%20there,%20I'm%20Tunahan!%20👋&fontSize=45&fontColor=fff&animation=twinkling&desc=Data%20Science%20|%20DevOps%20|%20FinTech%20Developer&descSize=18&descAlignY=70"/>
 </div>
+
 ---
 
 <div align="center">
