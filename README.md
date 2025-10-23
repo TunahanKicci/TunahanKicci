@@ -1,8 +1,9 @@
 <div align="center">
 
-# 👨‍💻 Hi there, I'm Tunahan! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Computer+Engineering+Student;FinTech+ML+Developer;Data+Science+%7C+DevOps+%7C+Python;Always+Ready+to+Collaborate!" alt="Typing SVG" />
+![wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Tunahan!%20👋&fontAlign=50&fontAlignY=40&color=gradient&desc=Data%20Science%20%7C%20DevOps%20%7C%20FinTech%20Developer&descAlign=50&descAlignY=60)
+
+
 
 </div>
 
