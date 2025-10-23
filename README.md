@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Merhaba, Ben Tunahan! 
+# 👨‍💻 Hi there, I'm Tunahan! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Computer+Engineering+Student;FinTech+ML+Developer;Data+Science+%7C+DevOps+%7C+Python;Always+Ready+to+Collaborate!" alt="Typing SVG" />
-
 
 </div>
 
@@ -11,31 +10,31 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-###  Hakkımda
+###  About Me
 
--  **Bilgisayar Mühendisliği Öğrencisi**
+-  **Computer Engineering Student**
   
 -  **FinTech ML Developer**
 
--  Makine öğrenmesi ve derin öğrenme projeleri geliştiriyorum
+-  Building machine learning and deep learning projects
   
--  Sürekli yeni teknolojiler öğreniyorum
+-  Constantly learning new technologies
   
--  Veri odaklı çözümler üretmeyi seviyorum
+-  Passionate about creating data-driven solutions
   
--  Yeni projeler için **işbirliğine açığım**
+-  Open to collaborate on **exciting projects**
   
--  **DevOps** ve **MLOps** tutkunu
+-  **DevOps** and **MLOps** enthusiast
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+##  Tech Stack
 
 <div align="center">
 
-### 🤖 Machine Learning & Data Science
+###  Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -44,12 +43,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 Veri Görselleştirme
+###  Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ DevOps 
+###  DevOps & CI/CD
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -58,10 +57,10 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### ☁️ Cloud Platforms
+###  Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -71,7 +70,8 @@
 ---
 
 
-## 📈 Aktivite Grafiği
+
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -81,21 +81,12 @@
 
 ---
 
-## 🌟 Öne Çıkan Projeler
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight)](https://github.com/yourusername/project1)
-
-</div>
-
----
-
-## 🤝 Benimle İletişime Geçin
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahan-kiççi-b05663247/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunahankicci@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
@@ -117,7 +108,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-**⭐️ Projelerimi beğendiyseniz star vermeyi unutmayın! ⭐️**
+**⭐️ If you like my projects, don't forget to give them a star! ⭐️**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
