@@ -1,37 +1,55 @@
 <div align="center">
-
-
-![wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Tunahan!%20👋&fontAlign=50&fontAlignY=40&color=gradient&desc=Data%20Science%20%7C%20DevOps%20%7C%20FinTech%20Developer&descAlign=50&descAlignY=60)
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&text=Hi%20there,%20I'm%20Tunahan!%20👋&fontSize=45&fontColor=fff&animation=twinkling&desc=Data%20Science%20|%20DevOps%20|%20FinTech%20Developer&descSize=18&descAlignY=70"/>
 </div>
-
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=👨‍💻%20About%20Me&fontSize=45&fontAlignY=40" alt="about me header"/>
+</div>
 
-### 🚀 About Me
 
--  **Computer Engineering Student**
-  
--  **FinTech ML Developer**
+<img align="right" alt="Coding" width="420"
+ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
--  Building machine learning and deep learning projects
-  
--  Constantly learning new technologies
-  
--  Passionate about creating data-driven solutions
-  
--  Open to collaborate on **exciting projects**
-  
--  **DevOps** and **MLOps** enthusiast
+<h2>👨‍💻 Who Am I?</h2>
+
+```yaml
+name: "Lifelong Learner"
+focus: ["AI Automation", "FinTech", "MLOps"]
+mission: "Bridging data and intelligence"
+```
+
+### 🎯 My Journey
+
+> 💭 **Explorer** - Discovering the frontiers of AI-driven automation  
+> 💡 **Builder** - Crafting intelligent systems in FinTech & ML  
+> 🧠 **Thinker** - Pondering how technology reshapes finance and life  
+> 📈 **Engineer** - Architecting tomorrow with Python, PyTorch & Prefect
 
 <br clear="right"/>
 
+### 🌟 What Drives Me
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🎓 Learning</b><br/>
+      Computer Engineering Student<br/>
+      Always curious, forever growing
+    </td>
+    <td align="center" width="50%">
+      <b>🚀 Innovation</b><br/>
+      AI & DevOps Enthusiast<br/>
+      Building the future, one commit at a time
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🛠️%20Tech%20Stack&fontSize=45&fontAlignY=35" alt="header"/>
+</div>
 
 <div align="center">
 
@@ -71,7 +89,11 @@
 
 
 
-## 🌟 Featured Projects
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🌟%20Featured%20Projects&fontSize=45&fontAlignY=35" alt="header"/>
+</div>
+
 
 <div align="center">
 
@@ -83,7 +105,9 @@
 
 
 
-## 🤝 Connect With Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🤝%20Connect%20With%20Me&fontSize=45&fontAlignY=40" alt="header"/>
+</div>
 
 <div align="center">
 
