@@ -17,6 +17,7 @@
 ```yaml
 name: "Lifelong Learner"
 focus: ["AI Automation", "FinTech", "MLOps"]
+achievement: "Teknofest 2025 FinTech Finalist 🏆"
 mission: "Bridging data and intelligence"
 ```
 
@@ -81,15 +82,24 @@ mission: "Bridging data and intelligence"
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🌟%20Featured%20Projects&fontSize=45&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🌟%20Featured%20Projects&fontSize=45&fontAlignY=35" alt="header"/>
 </div>
 
-
-<div align="center">
-
-[![FinanceML-Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight)](https://github.com/TunahanKicci/FinanceML-Pipeline)
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/TunahanKicci/FinanceML-Pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight" alt="FinanceML Pipeline Card" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/TunahanKicci/DeFi-RugPull-Detector">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=DeFi-RugPull-Detector&theme=tokyonight" alt="DeFi RugPull Detector Card" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br/> 
 
 ---
 
