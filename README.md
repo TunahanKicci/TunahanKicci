@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&text=Hi%20there,%20I'm%20Tunahan!%20👋&fontSize=45&fontColor=fff&animation=twinkling&desc=Data%20Science%20|%20DevOps%20|%20FinTech%20Developer&descSize=18&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&text=Tunahan%20Kiççi&fontSize=50&fontColor=fff&animation=twinkling&desc=Computer%20Engineering%20%7C%20FinTech%20Developer&descSize=20&descAlignY=70"/>
 </div>
 
 ---
@@ -15,10 +15,11 @@
 <h2>👨‍💻 Who Am I?</h2>
 
 ```yaml
-name: "Lifelong Learner"
-focus: ["AI Automation", "FinTech", "MLOps"]
-achievement: "Teknofest 2025 FinTech Finalist 🏆"
-mission: "Bridging data and intelligence"
+name: "Tunahan Kiççi"
+role: "Computer Engineering Student"
+focus: ["AI & Finance", "DevOps"]
+achievement: "🏆 Teknofest 2025 FinTech Finalist"
+mission: "Building secure financial systems"
 ```
 
 ### 🎯 My Journey
