@@ -42,7 +42,7 @@ mission: "Building secure financial systems"
     </td>
     <td align="center" width="50%">
       <b>🚀 Innovation</b><br/>
-      AI & DevOps Enthusiast<br/>
+      AI Enthusiast<br/>
       Building the future, one commit at a time
     </td>
   </tr>
