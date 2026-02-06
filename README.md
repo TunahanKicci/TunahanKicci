@@ -78,26 +78,30 @@ mission: "Building secure financial systems"
 
 
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🌟%20Featured%20Projects&fontSize=45&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🌟%20Featured%20Projects&fontSize=45&fontAlignY=35" alt="header"/>
 </div>
 
 <table border="0" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/TunahanKicci/FinanceML-Pipeline">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight" alt="FinanceML Pipeline Card" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/TunahanKicci/DeFi-RugPull-Detector">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=DeFi-RugPull-Detector&theme=tokyonight" alt="DeFi RugPull Detector Card" />
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/TunahanKicci/Students-Social-Media-Addiction-prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=Students-Social-Media-Addiction-prediction&theme=tokyonight" alt="Social Media Addiction Prediction Card" />
+      </a>
+    </td>
   </tr>
 </table>
-<br/> 
+<br/>
 
 ---
 
