@@ -17,7 +17,7 @@
 ```yaml
 name: "Tunahan Kiççi"
 role: "Computer Engineering Student"
-focus: ["AI & Finance"]
+focus: ["AI & Data Science"]
 achievement: "🏆 Teknofest 2025 FinTech Finalist"
 mission: "Building secure financial systems"
 ```
