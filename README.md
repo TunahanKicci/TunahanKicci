@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&text=Tunahan%20Kiççi&fontSize=50&fontColor=fff&animation=twinkling&desc=Computer%20Engineering%20%7C%20FinTech%20Developer&descSize=20&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&text=Tunahan%20Kiççi&fontSize=50&fontColor=fff&animation=twinkling&desc=Computer%20Engineering%20Student%20%7C%20Data%20Scientist&descSize=20&descAlignY=70"/>
 </div>
 
 ---
@@ -8,26 +8,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=👨‍💻%20About%20Me&fontSize=45&fontAlignY=40" alt="about me header"/>
 </div>
 
-
-<img align="right" alt="Coding" width="420"
- src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 <h2>👨‍💻 Who Am I?</h2>
 
 ```yaml
 name: "Tunahan Kiççi"
 role: "Computer Engineering Student"
-focus: ["AI & Data Science"]
+citizenship: "Dual Citizen (Turkey 🇹🇷 / Germany 🇩🇪)"
+focus: ["Data Science", "AI Architecture"]
 achievement: "🏆 Teknofest 2025 FinTech Finalist"
-mission: "Building secure financial systems"
+mission: "Transforming raw data into intelligent models"
 ```
 
 ### 🎯 My Journey
 
 > 💭 **Explorer** - Discovering the frontiers of AI-driven automation  
-> 💡 **Builder** - Crafting intelligent systems in FinTech & ML  
-> 🧠 **Thinker** - Pondering how technology reshapes finance and life  
-> 📈 **Engineer** - Architecting tomorrow with Python, PyTorch & Prefect
+> 💡 **Builder** - Crafting intelligent systems  
+> 🧠 **Thinker** - Pondering how technology reshapes life  
+> 📈 **Engineer** - Architecting tomorrow with Python, PyTorch
 
 <br clear="right"/>
 
@@ -76,8 +75,6 @@ mission: "Building secure financial systems"
 
 ---
 
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🌟%20Featured%20Projects&fontSize=45&fontAlignY=35" alt="header"/>
 </div>
@@ -85,26 +82,31 @@ mission: "Building secure financial systems"
 <table border="0" width="100%">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/TunahanKicci/FinanceML-Pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight" alt="FinanceML Pipeline Card" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/TunahanKicci/DeFi-RugPull-Detector">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=DeFi-RugPull-Detector&theme=tokyonight" alt="DeFi RugPull Detector Card" />
-      </a>
-    </td>
-    <td align="center" width="33%">
+      <h3>Core Foundation</h3>
       <a href="https://github.com/TunahanKicci/Students-Social-Media-Addiction-prediction">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=Students-Social-Media-Addiction-prediction&theme=tokyonight" alt="Social Media Addiction Prediction Card" />
       </a>
+      <br/><i>End-to-End Data Analysis</i>
+    </td>
+    <td align="center" width="33%">
+      <h3>MLOps Architecture</h3>
+      <a href="https://github.com/TunahanKicci/FinanceML-Pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight" alt="FinanceML Pipeline Card" />
+      </a>
+      <br/><i>AI-Assisted MLOps Concept</i>
+    </td>
+    <td align="center" width="33%">
+      <h3>Security Research</h3>
+      <a href="https://github.com/TunahanKicci/DeFi-RugPull-Detector">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=DeFi-RugPull-Detector&theme=tokyonight" alt="DeFi RugPull Detector Card" />
+      </a>
+      <br/><i>AI-Assisted Security Logic</i>
     </td>
   </tr>
 </table>
 <br/>
 
 ---
-
 
 
 <div align="center">
