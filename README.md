@@ -79,35 +79,66 @@ mission: "Transforming raw data into intelligent models"
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🌟%20Featured%20Projects&fontSize=45&fontAlignY=35" alt="header"/>
 </div>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Core Foundation</h3>
-      <a href="https://github.com/TunahanKicci/Students-Social-Media-Addiction-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=Students-Social-Media-Addiction-prediction&theme=tokyonight" alt="Social Media Addiction Prediction Card" />
-      </a>
-      <br/><i>End-to-End Data Analysis</i>
-    </td>
-    <td align="center" width="33%">
-      <h3>MLOps Architecture</h3>
-      <a href="https://github.com/TunahanKicci/FinanceML-Pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight" alt="FinanceML Pipeline Card" />
-      </a>
-      <br/><i>AI-Assisted MLOps Concept</i>
-    </td>
-    <td align="center" width="33%">
-      <h3>Security Research</h3>
-      <a href="https://github.com/TunahanKicci/DeFi-RugPull-Detector">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=DeFi-RugPull-Detector&theme=tokyonight" alt="DeFi RugPull Detector Card" />
-      </a>
-      <br/><i>AI-Assisted Security Logic</i>
-    </td>
-  </tr>
-</table>
+<h3 align="center">🛠️ Core Engineering & Applied Data Science</h3>
+<p align="center"><i>Projects built from scratch with manual implementation and end-to-end logic.</i></p>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h4>📊 Data Science</h4>
+        <a href="https://github.com/TunahanKicci/Car_Price_Prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=Car_Price_Prediction&theme=tokyonight&hide_border=true" alt="Car Price Prediction" />
+        </a>
+        <br/>
+        <code>Streamlit</code> <code>Random Forest</code>  <code>Statistical Analysis</code> <code>Visualization</code>
+        <br/>
+        <i>Full-stack ML application built from ground up.</i>
+      </td>
+      <td align="center" width="50%">
+        <h4>📊 Data Science</h4>
+        <a href="https://github.com/TunahanKicci/Students-Social-Media-Addiction-prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=Students-Social-Media-Addiction-prediction&theme=tokyonight&hide_border=true" alt="Social Media Addiction" />
+        </a>
+        <br/>
+        <code>Statistical Analysis</code> <code>Visualization</code> <code>XGBoost</code> <code>Streamlit</code>
+        <br/>
+        <i>Deep dive data analysis & raw feature engineering.</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h3 align="center">🤖 AI-Assisted Architecture & R&D</h3>
+<p align="center"><i>Experimental concepts and architectures accelerated by AI workflows.</i></p>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h4>⚙️ MLOps Architecture</h4>
+        <a href="https://github.com/TunahanKicci/FinanceML-Pipeline">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=FinanceML-Pipeline&theme=tokyonight&hide_border=true" alt="FinanceML Pipeline" />
+        </a>
+        <br/>
+        <i>AI-Assisted MLOps Concept Design</i>
+      </td>
+      <td align="center" width="50%">
+        <h4>🛡️ Web3 Security Logic</h4>
+        <a href="https://github.com/TunahanKicci/DeFi-RugPull-Detector">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TunahanKicci&repo=DeFi-RugPull-Detector&theme=tokyonight&hide_border=true" alt="DeFi RugPull Detector" />
+        </a>
+        <br/>
+        <i>AI-Generated Security Algorithms</i>
+      </td>
+    </tr>
+  </table>
+</div>
 <br/>
 
 ---
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=🤝%20Connect%20With%20Me&fontSize=45&fontAlignY=40" alt="header"/>
