@@ -111,7 +111,7 @@ mission: "Transforming raw data into intelligent models"
 
 <br/>
 
-<h3 align="center">🤖 AI-Assisted Architecture & R&D</h3>
+<h3 align="center">🤖 Vibe Coding</h3>
 <p align="center"><i>Experimental concepts and architectures accelerated by AI workflows.</i></p>
 
 <div align="center">
