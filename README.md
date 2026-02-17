@@ -17,7 +17,7 @@ I'm a computer engineering student focused on data science and machine learning.
 Python · PostgreSQL · Git
 
 **Machine Learning & AI**  
-TensorFlow · PyTorch · scikit-learn · Jupyter
+TensorFlow · scikit-learn · Jupyter
 
 **Data Analysis & Visualization**  
 Pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau
