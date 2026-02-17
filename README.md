@@ -16,8 +16,8 @@
 name: "Tunahan Kiççi"
 role: "Computer Engineering Student"
 citizenship: "Dual Citizen (Turkey 🇹🇷 / Germany 🇩🇪)"
-focus: ["Data Science", "AI Architecture"]
-achievement: "🏆 Teknofest 2025 FinTech Finalist"
+focus: ["Data Science"]
+achievement: "Teknofest 2025 FinTech Finalist"
 mission: "Transforming raw data into intelligent models"
 ```
 
