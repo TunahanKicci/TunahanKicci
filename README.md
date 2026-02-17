@@ -1,6 +1,6 @@
 # Tunahan Kiççi
 
-**Computer Engineering Student · Data Scientist**  
+**Computer Engineering Student · Data Science**  
 Dual Citizen — Turkey 🇹🇷 / Germany 🇩🇪 · Teknofest 2025 FinTech Finalist
 
 ---
