@@ -34,13 +34,6 @@ Pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau
 | [Car Price Prediction](https://github.com/TunahanKicci/Car_Price_Prediction) | Random Forest · Streamlit · Statistical Analysis | Full-stack ML application with feature engineering and interactive UI |
 | [Social Media Addiction Prediction](https://github.com/TunahanKicci/Students-Social-Media-Addiction-prediction) | XGBoost · Streamlit · Visualization | Deep-dive analysis and raw feature engineering on student behavior data |
 
-### Vibe Coding
-*Experimental concepts and architectures accelerated by AI-assisted workflows.*
-
-| Project | Description |
-|---|---|
-| [FinanceML Pipeline](https://github.com/TunahanKicci/FinanceML-Pipeline) | AI-assisted MLOps concept design and architecture exploration |
-| [DeFi RugPull Detector](https://github.com/TunahanKicci/DeFi-RugPull-Detector) | Blockchain security analysis platform — AI-generated algorithms, zero manual code |
 
 ---
 
